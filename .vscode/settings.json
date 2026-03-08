@@ -1,0 +1,11 @@
+{
+    "security.workspace.trust.untrustedFiles": "open",
+    "python.defaultInterpreterPath": "c:\\Users\\Administrator\\AppData\\Local\\Programs\\Python\\Python312\\python.exe",
+    "python.createEnvironment.trigger": "off",
+    "explorer.confirmDelete": false,
+    "markdown.preview.openonstartup": true,
+    "workbench.editorAssociations": {
+        "*.md": "vscode.markdown.preview.editor",
+        "*.txt": "vscode.markdown.preview.editor"
+    }
+}
